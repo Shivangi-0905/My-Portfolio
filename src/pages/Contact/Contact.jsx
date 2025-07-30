@@ -57,7 +57,7 @@ function Contact() {
                 {/* this is my linked in platfrom  */}
                 <div className={styles.account_icon}>
                   <a
-                    href="https://www.linkedin.com/in/shivangi-upadhyay-7a185b349/"
+                    href="https://www.linkedin.com/in/shivangi-upadhyay09/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
