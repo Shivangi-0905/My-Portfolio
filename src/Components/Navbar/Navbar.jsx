@@ -81,7 +81,7 @@ function Navbar() {
             <i className="fa-brands fa-github"></i>
           </a>
           <a
-            href="https://www.linkedin.com/in/shivangi-upadhyay-7a185b349/"
+            href="https://www.linkedin.com/in/shivangi-upadhyay09/"
             target="_blank"
             rel="noopener noreferrer"
             className={style.link}
